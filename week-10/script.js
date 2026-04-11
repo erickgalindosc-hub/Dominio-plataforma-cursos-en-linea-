@@ -148,5 +148,6 @@ console.log(`\nPromedio de precios: ${stats.avg.toFixed(2)}`);
 // agregar elemento
 addItem({ id: 7, name: "Skillshare", price: 45, students: 600, active: true, category: "creativo" });
 
+
 // reporte final
 buildReport();

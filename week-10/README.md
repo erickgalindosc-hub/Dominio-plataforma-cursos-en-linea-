@@ -23,6 +23,7 @@ Cada elemento del sistema representa una plataforma educativa digital con inform
 
 ---
 
+
 ## 📋 Funcionalidades implementadas
 
 ### 🧾 Gestión de datos
